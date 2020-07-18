@@ -10,4 +10,4 @@ Birth date: 30.09.2020
 
 Hey, guess what... you can also add your account avatar (image). It's enough to right click on your avatar where you see it in a page, go to `view image` and copy the link to it.
 Like this:  
-![YOUR-LINK](https://avatars2.githubusercontent.com/u/7242607?s=60&v=4)
+![YOUR-LINK](https://avatars3.githubusercontent.com/u/65776773?s=460&u=bac277c92f6946cc1ce33262798c04c2d2d731ab&v=4)
